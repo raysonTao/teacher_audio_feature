@@ -1,0 +1,8 @@
+# 忽略 data 文件夹及其所有内容
+data/
+
+# 忽略 models 文件夹及其所有内容
+models/
+
+# 忽略 results 文件夹及其所有内容
+results/
